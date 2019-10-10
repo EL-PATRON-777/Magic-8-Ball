@@ -19,7 +19,7 @@ def ask():
     
 
 #Answers
- ans1= "Without a doubt; Sin  duda."
+ans1= "Without a doubt; Sin  duda."
 ans2="My sources say no; Mis informantes dicen que no."
 ans3="Reply hazy try again; Respuesta confusa, vuelva intentar."
 ans4="You may rely on it; Puedes confiar en ello."
